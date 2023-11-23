@@ -1,0 +1,405 @@
+Routing Table: Mgmt-intf
+Routing Table: ADANI-POWER-MESH
+Routing Table: ADARSH-CREDIT-CO-OPERATIV-M
+Routing Table: ADHUNIK-CEMENT-LIMITED-S
+Routing Table: AEGIS-BPO-M
+Routing Table: AGILITY-LOGISTICS-PRIVATE-M
+Routing Table: AGS-INFOTECH-M
+Routing Table: AGS-TRANSACT-TECH-S
+Routing Table: AJARA-URBAN-S
+Routing Table: ALLAHABAD-BANK-2-M
+Routing Table: ALLAHABAD-BANK-4-M
+Routing Table: AMDOCS-DEVELOPMENT-S
+Routing Table: AMFP-ML-S
+Routing Table: AMWAY-INDIA-M
+Routing Table: ANDHRA-BANK-1-S
+Routing Table: ANDHRA-BANK-NEW-2-S
+Routing Table: APOLLO-HOSPITALS-ENTERPRISE-M
+Routing Table: APOLLO-TYRES-3-M
+Routing Table: ARGUS-ELECTRONIC-S
+Routing Table: ASIRVAD-MICROFINANCE-P-LTD-S
+Routing Table: ATNT-MGMT-100-M
+Routing Table: AU-FINANCIERS-INDIA-PVT-M
+Routing Table: AXIS-BANK-7-MESH
+Routing Table: AXIS-BANK-7-S
+Routing Table: Aakash-Educational-S
+Routing Table: Abhyudaya-Co-op-Bank-M
+Routing Table: Accenture-10-H2
+Routing Table: Allstate-solutions-M
+Routing Table: Allstate-solutions-S
+Routing Table: Andhra-Pradesh-Southern-M
+Routing Table: Apollo-Munich-Health-M
+Routing Table: Axis-Bank-10-S
+Routing Table: BAJAJ-ALLIANZ-LIFE-H6
+Routing Table: BANGALORE-ELECTRICITY-SUPPLY-S
+Routing Table: BANK-OF-BARODA-3-S
+Routing Table: BANK-OF-BARODA-4-H
+Routing Table: BANK-OF-BARODA-4-S
+Routing Table: BANK-OF-INDIA-2-M
+Routing Table: BANK-OF-INDIA-2-Mesh
+B        172.65.148.0/24 [200/0] via 202.123.37.3, 00:00:06
+Routing Table: BANK-OF-INDIA-M
+B        10.110.143.32/27 [200/0] via 202.123.42.246, 00:00:08
+B        10.171.119.42/32 [200/0] via 202.123.42.85, 00:00:08
+B        10.171.122.49/32 [200/0] via 202.123.42.85, 00:00:08
+B        172.24.75.128/27 [200/0] via 202.123.34.2, 00:00:07
+B        172.25.70.96/27 [200/0] via 202.123.42.126, 00:00:09
+Routing Table: BANK-OF-MAHARASHTRA-5-S
+Routing Table: BARBEQUE-NATIONAL-HOSPITA-S
+Routing Table: BASSEIN-CATHOLIC-S
+Routing Table: BAXA-TECHNOLOGIES-SHARED-M
+Routing Table: BBNL-INTERNET
+Routing Table: BCLD-ML3-19-MESH
+Routing Table: BCLM-16-MESH
+Routing Table: BELZABAR-M
+Routing Table: BHARTI-CELLULAR-30-MESH
+Routing Table: BHIF-PRIZ-MOF-INFRA-M
+Routing Table: BIRLA-MANAGEMENT-CENTER-M
+Routing Table: BLUE-DART-M
+B        172.17.43.0/24 [200/0] via 202.123.37.211, 00:00:01
+Routing Table: BOLLORE-LOGISTICS-INDIA-M
+Routing Table: BSES-Rajdhani-Power-Ltd-M
+Routing Table: BTI-Payments-Private-M
+Routing Table: BTSOL-OFFICE
+Routing Table: Bharti-Enterprise-13-M
+Routing Table: Bharti-Enterprise-Infrast-M
+Routing Table: C-EDGE-M
+Routing Table: C-Edge-100-S
+B        172.42.238.168/30 [20/0] via 172.42.238.170, 00:00:06
+Routing Table: C-Edge-101-S
+Routing Table: C-Edge-102-S
+Routing Table: C-Edge-6-S
+Routing Table: C-Edge-TPZ-S
+Routing Table: C-Edge-Technologies-10-S
+Routing Table: C-Edge-Technologies-103-S
+Routing Table: C-Edge-Technologies-105-S
+Routing Table: C-Edge-Technologies-12-S
+Routing Table: C-Edge-Technologies-13-S
+Routing Table: C-Edge-Technologies-14-S
+Routing Table: C-Edge-Technologies-15-S
+Routing Table: C-Edge-Technologies-16-S
+Routing Table: C-Edge-Technologies-17-S
+Routing Table: C-Edge-Technologies-18-S
+Routing Table: C-Edge-Technologies-19-S
+Routing Table: C-Edge-Technologies-20-S
+Routing Table: C-Edge-Technologies-23-S
+Routing Table: C-Edge-Technologies-4-S
+Routing Table: C-Edge-Technologies-5-S
+Routing Table: C-Edge-Technologies-7-S
+Routing Table: C-Edge-Technologies-8-S
+Routing Table: C-Edge-Technologies-9-S
+Routing Table: CANARA-BANK-M
+B        10.180.154.216/29 [20/0] via 10.185.133.23, 00:00:03
+B        172.18.117.224/27 [20/0] via 10.185.133.23, 00:00:03
+B        172.18.255.4/32 [20/0] via 10.185.133.23, 00:00:03
+Routing Table: CAPEGEMINI-INDIA-S
+Routing Table: CAPITA-INDIA-3-S
+Routing Table: CAPITA-INDIA-4-S
+Routing Table: CAPITA-INDIA-5-S
+Routing Table: CAPITA-INDIA-6-S
+Routing Table: CAPITA-INDIA-S
+Routing Table: CARNIVAL-FILMS-S
+Routing Table: CATHOLIC-SYRIAN-BANK-M
+Routing Table: CEPIOS-M
+Routing Table: CESC-M
+Routing Table: CHAITANYA-GODAVARI-S
+Routing Table: CHOLAMANDALAM-2-S
+Routing Table: CHOLAMANDALAM-S
+Routing Table: CITY-UNION-BANK-2-S
+Routing Table: CITY-UNION-BANK-M
+Routing Table: CITY-UNION-BANK-S
+Routing Table: CONCENTRIX-DAKSH-28-M
+Routing Table: CONNAUGHT-PLAZA-RESTAURANT-S2
+Routing Table: CORPORATION-BANK-S
+Routing Table: Central-Electricity-M
+Routing Table: Central-Electricity-Suppl-M
+Routing Table: Cheminova-India-Ltd-S
+Routing Table: DAIMLERCHRYSLER-INDIA-H
+Routing Table: DAPOLI-URBAN-S
+Routing Table: DATACRAFT-INDIA-LTD-S
+Routing Table: DBS-BANK-HUB
+Routing Table: DENA-BANKTUSHAR-M
+Routing Table: DEVYANI-INTERNATIONAL-UMNG-S
+Routing Table: DHANLAKSHMI-BANK-3-S
+Routing Table: DR-LAL-PATHLABS-S4
+Routing Table: Dakshin-Haryana-S
+Routing Table: Dena-Gujarat-Gramin-Bank-H
+Routing Table: Development-Credit-Bank-M
+Routing Table: E-FUNDS-INTERNATIONAL-5-S
+Routing Table: EQUITAS-SMALL-S2
+Routing Table: EURONET-SERVICES-INDIA-2-S
+Routing Table: EXL-SERVICES-UMNG-M
+Routing Table: Emami-Cement-M
+Routing Table: Essar-Oil-M
+Routing Table: FEDERAL-BANK-S
+Routing Table: FINESSE-INFORMATION-S
+Routing Table: FIS-GLOBAL-16-S
+Routing Table: FIS-GLOBAL-BUSINESS-17-H
+Routing Table: FIS-GLOBAL-BUSINESS-17-S
+Routing Table: FIS-PAYMENTS-SOLUTIONS-7-H
+Routing Table: FIS-PAYMENTS-SOLUTIONS-7-S
+Routing Table: Fullerton-India-Credit-S
+Routing Table: GAMMA-PIZZA-CRAFT-S
+Routing Table: GATI-S
+Routing Table: GERDAU-STEEL-INDIA-PVT-LT-S
+Routing Table: GOODYEAR-INDIA-S
+Routing Table: GOPINATH-PATIL-PARSIK-JAN-S
+Routing Table: GPIL-S
+Routing Table: HAVELLS-INDIA-2-M
+Routing Table: HDFC-BANK-MESH
+B        10.46.0.34/32 [200/0] via 202.123.42.248, 00:00:09
+B        10.46.0.208/32 [200/0] via 202.123.42.245, 00:00:07
+B        10.89.7.40/29 [200/0] via 202.123.42.245, 00:00:07
+B        10.89.7.240/29 [200/0] via 202.123.42.248, 00:00:09
+Routing Table: HDFC-M
+B        10.239.22.62/32 [200/0] via 202.123.42.172, 00:00:09
+Routing Table: HERO-HONDA-MOTORS-3-S
+Routing Table: HILTI-INDIA-S
+Routing Table: HINDUSTAN-PETROLEUM-S
+Routing Table: HONDA-MOTORS-INDIA-S
+Routing Table: HOUSE-OF-ANITA-DONGRE-LIM-S
+Routing Table: HOUSING-D-M
+Routing Table: HOUSING-DEVELOPMENT-BANK-S
+Routing Table: HP-PPS-SERVICES-H2
+Routing Table: HYDERABAD-MEDIA-S
+Routing Table: HYUNDAI-MOTORS-INDIA-LTD-S
+Routing Table: Hinduja-Global-Solutions-1-M
+Routing Table: IBM-DAKSH-26-M
+Routing Table: ICICI-9-M
+Routing Table: ICICI-BANK-MESH
+B        10.40.4.80/32 [200/0] via 202.123.42.117, 00:00:02
+B        10.224.62.0/24 [200/0] via 202.123.42.117, 00:00:02
+Routing Table: IDBI-BANK-2-MESH
+Routing Table: IDBI-BANK-MESH
+Routing Table: IFFCO-KISAN-1-M
+Routing Table: IIFL-WEALTH-S
+Routing Table: INDIA-CEMENTS-LTD-S
+Routing Table: INDIAN-OIL-CORPORATION-7-S
+Routing Table: INDIAN-OVERSEAS-BANK-M
+Routing Table: INDUSIND-BANK-M
+Routing Table: INFONET-COMM-S
+Routing Table: IONNOR-SOLUTIONS-S
+Routing Table: ISHAN-NETSOL-S
+Routing Table: Indian-Bank-M
+Routing Table: JAIPRAKASH-ASSOCIATE-M
+Routing Table: JAMMU-KASHMIR-BANK-2-M
+B        10.127.4.91/32 [20/0] via 10.127.4.91, 00:00:01
+Routing Table: JAMMU-KASHMIR-BANK-4-M
+Routing Table: JAQUAR-COMPANY-M
+Routing Table: JAYCON-INFRASTRUCTURE-S
+Routing Table: JHARKHAND-STATE-ELECTRICI-S
+Routing Table: JK-BANK-MESH2
+Routing Table: JODHPUR-VIDYUT-VITRAN-NIG-M
+Routing Table: Jubilant-Food-M
+Routing Table: KARNATAKA-BANK-M
+Routing Table: KERALA-STATE-M
+B        172.31.33.42 [200/0] via 202.123.42.248, 00:00:01
+B        172.31.35.19 [200/0] via 202.123.42.248, 00:00:01
+Routing Table: KKALPANA-INDUSTRIES-M
+Routing Table: KNOAH-SOLUTIONS-S
+Routing Table: KOTAK-MAHINDRA-M
+Routing Table: KPIT-CUMMINS-H
+Routing Table: KSEB-S
+Routing Table: L&T-ECC-LTD-S
+Routing Table: LAFARGE-INDIA-S
+Routing Table: LEAD-TECH-SOLUTIONS-S
+Routing Table: LIC-CORP-1-M
+Routing Table: LIC-Housing-Finance-S
+Routing Table: LIC-MUTUAL-M
+Routing Table: LIGHTSTORM-TELECOM-S
+Routing Table: LKQA-ML-M
+Routing Table: Lakshmi-Vilas-Bank-2-S
+Routing Table: MAGMA-FINCORP-M
+Routing Table: MARUTI-4-S
+Routing Table: MERCEDES-BENZ-INDIA-2-S
+Routing Table: MICRON-TECHNOLOGY-S
+Routing Table: MOTHER-DIARY-FOODS-S
+Routing Table: MS-SICAL-LOGISTICS-S
+Routing Table: MUNDRA-PORT-M
+Routing Table: MUSIC-BROADCAST-LIMITEDRA-S
+Routing Table: MUTHOOT-FINANCES-S
+Routing Table: Manapuram-Finance-Limited-2-S
+Routing Table: Mu-Sigma-H2
+Routing Table: NAGPUR-NAGARIK-SAHAKARI-S
+Routing Table: NATIONAL-INFORMATION-M
+Routing Table: NET-TECH-SERVICES-M
+Routing Table: NEW-INDIA-S
+Routing Table: OBEROIS-COMMATRADE-M
+Routing Table: ODISHA-GRAMYA-BANK-M
+Routing Table: ONE97-COMMUNICATIONS-S
+Routing Table: ONNYX-ELECTRONICS-S
+Routing Table: Odisha-Power-M
+Routing Table: Oriental-Bank-of-Commerce-M
+Routing Table: PAII-ML-2-M
+Routing Table: PANDYAN-GRAMA-BANK-M
+Routing Table: PERNOD-RICARD-S
+Routing Table: PHED-ECONNECT-S
+Routing Table: PLANET-INFRASTRUCTURE-MAN-S
+Routing Table: PNB-HOUSING-FINANCE-M
+Routing Table: PNB-METLIFE-M
+Routing Table: POLYCAB-WIRES-M
+Routing Table: PRIZM-PAYMENTS-SERVICES-5-M
+B        10.196.65.16/29 [200/0] via 202.123.42.64, 00:00:07
+Routing Table: PUNJAB-NATIONAL-BANK-S
+Routing Table: Pragathi-Krishna-M
+B        10.128.82.0/26 [200/0] via 202.123.43.225, 00:00:09
+Routing Table: Principal-Secretary-S
+Routing Table: Prodapt-Solutions-S
+Routing Table: Punjab-National-2-M
+Routing Table: Punjab-National-M
+B        10.97.32.0/28 [200/0] via 202.123.34.2, 00:00:07
+B        172.37.100.205/32 [200/0] via 202.123.34.2, 00:00:08
+Routing Table: RAIGAD-DISTRICT-CENTRAL-S
+Routing Table: RAILTEL-CORPORATION-2-S
+Routing Table: RAILTEL-CORPORATION-OF-IN-S
+Routing Table: RAYMOND-M
+Routing Table: RBL-BANK-LIMITED-S
+Routing Table: RELIANCE-BROADCAST-NETWORK-M
+Routing Table: RELIANCE-CAPITAL-LIMITED-M
+Routing Table: RURAL-ELECTRIFICATION-M
+Routing Table: SARASWAT-BANK-S
+Routing Table: SARASWAT-BANK-S2
+Routing Table: SATYAM-AUTO-COMPONENTS-M
+Routing Table: SBI-ML-M
+Routing Table: SHRIRAM-CITY-UNION-FINANCE-2-S
+Routing Table: SIEMENS-INDUSTRY-H
+Routing Table: SIMPLEX-INFRASTRUCTURES-S
+Routing Table: SOLAPUR-JANTA-SAHAKARI-S
+Routing Table: SOMANY-CERAMICS-LIMITED-M
+Routing Table: SOUTH-INDIAN-BANK-M
+Routing Table: SRI-KRISHNA-SWEETS-S
+Routing Table: STAR-HELATH-AND-ALLIED-M
+Routing Table: STAR-UNION-DAIICHI-LIFE-H8
+Routing Table: STAR-UNION-DAIICHI-LIFE-S
+Routing Table: STATE-BANK-OF-INDIA-3-M
+Routing Table: STATE-STREET-CORPORATE-S
+Routing Table: STERLITE-M
+Routing Table: SUGUNA-DAIRY-PRODUCTS-S
+Routing Table: SUNDARAM-MESH
+Routing Table: SYED-AMMAL-ENGINEERING-COLLEGE-M
+Routing Table: SYNDICATE-BANK-3M
+B        10.48.140.105/32 [200/0] via 202.123.42.245, 00:00:05
+B        10.166.205.0/27 [200/0] via 202.123.42.245, 00:00:05
+B        10.181.110.0/29 [200/0] via 202.123.42.245, 00:00:05
+Routing Table: SYNDICATE-BANK-M
+B        10.48.140.105/32 [200/0] via 202.123.42.245, 00:00:05
+B        10.166.205.0/27 [200/0] via 202.123.42.245, 00:00:06
+B        10.181.110.0/29 [200/0] via 202.123.42.245, 00:00:06
+Routing Table: South-Bihar-Power-Distrib-S
+Routing Table: State-Bank-Of-India-4-S
+Routing Table: State-Bank-Of-India-6-M
+Routing Table: State-Bank-of-India-3-M
+B        10.73.206.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.74.139.0/24 [200/0] via 202.123.42.245, 00:00:06
+B        10.104.183.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.107.110.0/24 [200/0] via 202.123.42.245, 00:00:06
+B        10.108.56.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.108.82.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.108.89.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.108.99.0/24 [200/0] via 202.123.42.245, 00:00:06
+B        10.108.125.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.108.150.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.108.170.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.109.191.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.109.193.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.119.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.139.0/24 [200/0] via 202.123.42.245, 00:00:06
+B        10.110.142.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.143.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.146.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.155.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.156.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.159.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.174.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.183.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.197.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.110.198.0/24 [200/0] via 202.123.42.245, 00:00:07
+B        10.127.9.206/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.10.139/32 [200/0] via 202.123.42.245, 00:00:07
+B        10.127.40.183/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.43.110/32 [200/0] via 202.123.42.245, 00:00:07
+B        10.127.44.56/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.44.82/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.44.89/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.44.99/32 [200/0] via 202.123.42.245, 00:00:07
+B        10.127.44.125/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.44.150/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.44.170/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.45.191/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.45.193/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.119/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.139/32 [200/0] via 202.123.42.245, 00:00:07
+B        10.127.46.142/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.143/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.146/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.155/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.156/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.159/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.174/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.183/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.197/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.127.46.198/32 [200/0] via 202.123.42.245, 00:00:08
+B        10.255.30.192/32 [200/0] via 202.123.42.248, 00:00:00
+B        10.255.33.107/32 [200/0] via 202.123.42.85, 00:00:00
+B        10.255.50.2/32 [200/0] via 202.123.42.248, 00:00:00
+B        172.2.14.112/29 [200/0] via 202.123.43.118, 00:00:00
+B        172.2.17.128/29 [200/0] via 202.123.34.2, 00:00:00
+B        172.2.46.48/29 [200/0] via 202.123.34.2, 00:00:00
+B        172.2.133.8/29 [200/0] via 202.123.34.2, 00:00:00
+B        172.2.217.56/29 [200/0] via 202.123.43.118, 00:00:00
+Routing Table: TAMILNADU-MERCANTILE-BANK-M
+Routing Table: TANGEDCO-10-M
+Routing Table: TATA-CONSULTANCY-SERVICES-M
+Routing Table: TATA-CONSULTANCY-SERVICES-S
+Routing Table: TCSX-2-S
+Routing Table: TD-TOLL-PRIVATE-LIMITED-M
+Routing Table: TERRIER-S
+Routing Table: TEST-HUAWEI
+Routing Table: THE-CHIPLUN-URBAN-S
+Routing Table: THE-MAHARASHTRA-STATE-S
+Routing Table: THE-ZOROASTRIAN-CO-OP-S
+Routing Table: TYCO-FIRE-SECURITY-S
+Routing Table: Tata-Consultancy-S
+Routing Table: Tech-Mahindra-43-M
+Routing Table: Test
+Routing Table: The-Shamrao-Vithal-Co-2-M
+Routing Table: U-P-Panchayati-M
+Routing Table: UCO-Bank-MESH
+Routing Table: UNION-BANK-INDIA-MESH
+B        10.201.8.36/30 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.14.24/30 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.17.17/32 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.19.214/32 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.26.61/32 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.30.40/30 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.39.172/30 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.55.63/32 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.55.87/32 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.57.248/30 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.58.88/30 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.67.246/32 [200/0] via 202.123.34.2, 00:00:00
+B        10.201.74.196/30 [200/0] via 202.123.34.2, 00:00:00
+Routing Table: UNITED-BANK-M
+Routing Table: UNOCVPN-BHARTI
+B        10.10.10.7/32 [200/0] via 202.123.47.202, 00:00:06
+Routing Table: V-GUARD-INDUSTRIES-S
+Routing Table: V-V-RICE-MILL-M
+Routing Table: VASAN-HEALTHCARE-M
+Routing Table: VE-COMMERCIAL-VEHICLES-S
+Routing Table: VERIZON-COMMUNICATION-M
+Routing Table: Varun-Beverages-2-H
+Routing Table: WALWHAN-S
+Routing Table: WEST-BENGAL-ELECTRONICS-S
+Routing Table: WHIRLPOOL-S
+Routing Table: WiFi-Cisco-VPN
+Routing Table: Wipro-Limiteds-M
+Routing Table: YALAMANCHILI-S
+Routing Table: YUM-RESTAURANT-MNG-S
+Routing Table: nuFuture-Digital-2-M
+Routing Table: nuFuture-Digital-Mesh
+B        10.87.230.64/27 [200/0] via 202.123.42.94, 00:00:00
+B        10.87.230.96/27 [200/0] via 202.123.42.94, 00:00:00
+Routing Table: test
+Routing Table: test-isdn
+Routing Table: test1
+Routing Table: THANE-BHARAT-SAHAKARI-BANK-M

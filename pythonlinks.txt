@@ -1,0 +1,14 @@
+https://pyneng.readthedocs.io/en/latest/book/18_ssh_telnet/netmiko.html
+from DANIEL KEY (Cisco) to All Participants:
+https://www.paramiko.org/
+
+from DANIEL KEY (Cisco) to All Participants:
+https://docs.python.org/release/3.9.9/reference/lexical_analysis.html#literals
+from DANIEL KEY (Cisco) to All Participants:
+@ lunch
+from DANIEL KEY (Cisco) to All Participants:
+I'm back.
+from DANIEL KEY (Cisco) to All Participants:
+https://www.regular-expressions.info/ip.html
+from DANIEL KEY (Cisco) to All Participants:
+https://www.analyticsmarket.com/freetools/ipregex/

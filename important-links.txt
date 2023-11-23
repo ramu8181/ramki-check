@@ -1,0 +1,84 @@
+NTP:
+
+https://www.cisco.com/c/en/us/support/docs/ip/network-time-protocol-ntp/116161-trouble-ntp-00.html
+
+
+
+SR Links:
+
+https://cisco.sharepoint.com/:p:/s/MIGRoutingPMTMETeamSite/EacCBgpBOVZKjUyezgyrqMEBBpEnaajWsZQr9J3rDVkqhA?e=ITKkG8&PreviousSessionID=1519775f-4eec-6d1e-0488-15be581f791e
+https://cisco.sharepoint.com/:p:/s/MIGRoutingPMTMETeamSite/EacCBgpBOVZKjUyezgyrqMEBBpEnaajWsZQr9J3rDVkqhA?e=ITKkG8&PreviousSessionID=1519775f-4eec-6d1e-0488-15be581f791e
+
+
+ESXI Server:
+
+https://10.77.92.13/ui/#/login
+
+
+Training:
+https://cxtraining.cisco.com/CustAdv/ts/ielc/tst/el/online/courses/?crs=npi&courseid=17427
+
+
+
+Network slicing with RJ:
+
+Common VRF where-ever possible, but different forwarding behaviour via TE and QoS
+
+Different Slice identified via - vlan and dscp marking from radio side
+1)	End- to-End Slicing 
+2)	Slicing Based on the Vlan 
+3)	Slicing Based on the DSCP
+4)	Packet priotization on  Slicing when two Vlan 9 comes
+5)	Same vlan 
+
+
+
+Terraform:
+
+https://github.com/looselytyped/terraform-workshop/
+https://github.com/hashicorp/terraform-provider-aws
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+Platform Links:
+
+IOS-XR password reset: https://community.cisco.com/t5/service-providers-documents/asr9000-xr-how-to-reset-a-lost-password-password-recovery-on-ios/ta-p/3109412
+
+
+Drafts:
+========
+
+draft-ietf-spring-segment-routing
+Prefix-SID per Algorithm
+draft-filsfils-spring-segment-routing-policy
+SRTE architecture, ODN, AS
+draft-hegdeppsenak-isis-sr-flex-algo
+Customization of Algo and consistency
+draft-ietf-isis-te-app
+Used to flood Flex-Algo specific link affinities
+RFC7810 (IS-IS Traffic Engineering (TE) Metric Extensions)
+Used to advertise extended TE metrics – e.g. link delay
+
+
+
+Python scripts:
+================
+
+1) Different 
+
+
+Git Sonics Links:
+
+https://github.com/Azure/sonic-utilities/blob/master/show/bgp_common.py
+
+Django Links:
+
+https://wwwin-github.cisco.com/SP-Network-Automation/demo-device-inventory
+
+
+Presales:
+
+https://cisco.sharepoint.com/:x:/s/ProSTechnologyGroup/EQZj-XxVDD9BkCwscxOjmc0B3dqvAPmlnBUgNcmXxLmTfg
+
+
+https://cisco.sharepoint.com/:x:/s/SPDC/EY5WuC5P7FhIvik28bRjKDIBYUPeIafSfTWlFN8KWHnFCw?e=4%3Ad3UeNS&at=9&wdLOR=cB6C3DC11-480A-3048-B88C-5752249D605F
+

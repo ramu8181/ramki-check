@@ -1,0 +1,21 @@
+
+#user1@airtel.com Cleartext-Password:="Cisco"
+#    Auth-Type := Accept,
+#    Service-Type=Framed-User,
+#    Framed-IP-Address = 172.16.0.1,
+#    cisco-avpair += "ip:vrf-id=vrf1",
+#    cisco-avpair="ip:ip-unnumbered=loopback1"
+
+
+if __name__=='__main__':
+
+    with open('file100.txt',mode="w") as file_1: 
+        for i in range ( 0,300+1):
+           for j in range (1,20+1):
+             file_1.write("user1@airtel.com Cleartext-Password:=i\"Cisco\"\n")
+             file_1.write("Auth-Type := Accept,\n")
+             file_1.write("Service-Type=Framed-User,\n")
+             file_1.write("Framed-IP-Address = " + "," + "172.16." + str(i) + "." + str(j) + ",\n")
+             file_1.write("cisco-avpair += \"ip:vrf-id=vrf1\",\n")
+             file_1.write("cisco-avpair=\"ip:ip-unnumbered=loopback1\"\n")
+        
